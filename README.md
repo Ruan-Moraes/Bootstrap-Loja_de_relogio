@@ -1,6 +1,6 @@
 # Loja de relógios - Projeto de curso
 
-![loja](https://github.com/Ruan-Moraes/Bootstrap_Loja-de-relogio/assets/129057792/39ff3a84-8944-401f-ba42-dd0d14039d36)
+![loja de relógio](https://github.com/Ruan-Moraes/Bootstrap_Loja-de-relogio/assets/129057792/39ff3a84-8944-401f-ba42-dd0d14039d36)
 
 ## Sobre o Projeto
 
