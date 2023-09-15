@@ -12,7 +12,7 @@ Você tem duas maneiras de testar o projeto:
 
 ### 1. No Seu Próprio Computador
 
-1. **Clonar o Projeto**: Comece clonando este repositório para a sua máquina local com o seguinte comando:
+1. **Clonar o Projeto**: Comece clonando este repositório para a sua máquina local.
 
 2. **Abrir o Arquivo HTML**: Após clonar o projeto, navegue até o diretório onde o clonou. Abra o arquivo `index.html` no seu navegador para visualizar a página responsiva em ação.
 
