@@ -20,4 +20,4 @@ Você tem duas maneiras de testar o projeto:
 
 Caso prefira, é possível acessar uma versão online do projeto hospedada no GitHub Pages. Basta clicar no link abaixo:
 
-[Visualizar no GitHub Pages](https://ruan-moraes.github.io/Bootstrap_Loja-de-relogio/)
+[Visualizar no GitHub Pages](https://ruan-moraes.github.io/Bootstrap-Loja_de_relogio/)
